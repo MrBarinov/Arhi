@@ -1,12 +1,12 @@
-package InMemoryModel;
+package lesson1.InMemoryModel;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import ModelElements.Camera;
-import ModelElements.Flash;
-import ModelElements.PoligonalModel;
-import ModelElements.Scene;
+import lesson1.ModelElements.Camera;
+import lesson1.ModelElements.Flash;
+import lesson1.ModelElements.PoligonalModel;
+import lesson1.ModelElements.Scene;
 
 public class ModelStore implements IModelChanger {
 	public List<PoligonalModel> Models;
