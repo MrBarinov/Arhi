@@ -1,4 +1,3 @@
-package DZ;
 
 public class CarSweep extends Car {
 	public void sweepStreet() {

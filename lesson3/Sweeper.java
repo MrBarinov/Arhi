@@ -1,4 +1,4 @@
-package DZ;
+
 
 public class Sweeper extends CarSweep implements IGasStation, ISweepCar {
 

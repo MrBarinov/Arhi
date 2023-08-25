@@ -1,4 +1,4 @@
-package DZ;
+
 
 public interface ISweepCar {
 	public void sweepHeadshield();

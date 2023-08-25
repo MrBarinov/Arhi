@@ -1,4 +1,4 @@
-package DZ;
+
 
 public class Truck extends Car implements IGasStation, ISweepCar {
 	private String fuelType = "Diesel";

@@ -1,4 +1,4 @@
-package DZ;
+
 
 public class Rink extends Car implements IGasStation, ISweepCar {
 

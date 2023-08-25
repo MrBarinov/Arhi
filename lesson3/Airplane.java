@@ -1,5 +1,3 @@
-package DZ;
-
 public class Airplane extends Car implements IGasStation, ISweepCar {
 	@Override
 	public String move() {

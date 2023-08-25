@@ -1,4 +1,4 @@
-package DZ;
+
 
 public class Scooter extends Car implements IGasStation, ISweepCar {
 	private int wheelsCount = 3;
